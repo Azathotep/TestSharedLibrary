@@ -11,5 +11,10 @@ namespace TestSharedLibrary
         {
 
         }
+
+        public int MyMethod()
+        {
+            return 0;
+        }
     }
 }
