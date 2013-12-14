@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TestSharedLibrary
 {
-    class OtherClass
+    public class OtherClass
     {
     }
 }
