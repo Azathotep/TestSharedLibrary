@@ -5,7 +5,11 @@ using System.Text;
 
 namespace TestSharedLibrary
 {
-    public class Class1
+    public class SomeClass
     {
+        public SomeClass()
+        {
+
+        }
     }
 }
